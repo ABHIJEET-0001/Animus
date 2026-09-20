@@ -1,0 +1,10 @@
+{
+  "description": "Utilizing AI and real-time alerts, this platform enhances animal safety by preventing road accidents and facilitating swift rescue operations for wildlife.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
