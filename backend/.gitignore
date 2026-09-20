@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+gradle-8.10.2/
+gradle.zip
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Compiled output
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
