@@ -4,8 +4,6 @@
 
 Built for the **EcoLogic 1.0 by Mercer | Mettl** hackathon, this project focuses on **Mobility, environmental protection, AI, measurable impact, and practical real-world technology**.
 
----
-
 ## 🚀 Features
 
 The system follows a complete lifecycle:
@@ -19,8 +17,6 @@ The system follows a complete lifecycle:
 - 📊 **Analytics & Impact Dashboard:** Tracks metrics such as vehicles alerted, high-risk events prevented, estimated fuel saved, and CO₂ impact.
 - 💡 **AI Insights:** Automatically generates actionable insights and recommendations based on detection trends.
 
----
-
 ## 🏗️ System Architecture
 
 1. **CCTV Cameras / Video Feeds**
@@ -31,8 +27,6 @@ The system follows a complete lifecycle:
 6. **Analytics + Risk Map (React Frontend)**
 7. **Highway Authority Control Center / Driver Alert UI**
 
----
-
 ## 🛠️ Technology Stack
 
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS v4, Lucide Icons
@@ -40,8 +34,6 @@ The system follows a complete lifecycle:
 - **AI Model (Integration Ready):** YOLO, OpenCV
 - **Database (Optional/Future):** Firebase / Supabase
 - **Mapping:** SVG-based simulated maps (or Google Maps API)
-
----
 
 ## 🚦 Getting Started
 
@@ -84,14 +76,10 @@ Start the backend server:
 uvicorn main:app --reload
 ```
 
----
-
 ## 🎮 Demo Mode
 
 Since a live YOLO AI model requires heavy hardware, the frontend comes equipped with a **Demo Simulation Engine**.
 Click the **"START LIVE MONITORING"** or **"START DEMO"** button on the dashboard to automatically simulate CCTV events, realistic AI detections, risk score calculations, and driver alerts.
-
----
 
 ## 🌱 Environmental Impact & Sustainability
 
@@ -101,8 +89,6 @@ This project demonstrates how smart technology can go beyond simple monitoring:
 - **ALERT:** Save lives (both animal and human) through real-time notifications to drivers.
 - **OPTIMIZE:** Reduce sudden braking incidents, thereby lowering unnecessary fuel consumption and CO₂ emissions.
 - **MEASURE:** Provide actionable data to authorities for installing physical wildlife crossings or fencing in data-proven high-risk zones.
-
----
 
 ## 📝 License
 
